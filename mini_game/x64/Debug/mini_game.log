@@ -1,0 +1,56 @@
+﻿  Common.cpp
+  main.cpp
+C:\Users\MOBLE\Desktop\mini_game\main.cpp(13,32): warning C4566: 유니버설 문자 이름 '\u2554'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\main.cpp(13,32): warning C4566: 유니버설 문자 이름 '\u2550'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\main.cpp(13,32): warning C4566: 유니버설 문자 이름 '\u2557'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\main.cpp(14,32): warning C4566: 유니버설 문자 이름 '\u2551'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\main.cpp(15,32): warning C4566: 유니버설 문자 이름 '\u255A'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\main.cpp(15,32): warning C4566: 유니버설 문자 이름 '\u2550'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\main.cpp(15,32): warning C4566: 유니버설 문자 이름 '\u255D'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\main.cpp(37,34): warning C4566: 유니버설 문자 이름 '\u2554'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\main.cpp(37,34): warning C4566: 유니버설 문자 이름 '\u2550'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\main.cpp(37,34): warning C4566: 유니버설 문자 이름 '\u2557'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\main.cpp(38,34): warning C4566: 유니버설 문자 이름 '\u2551'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\main.cpp(39,34): warning C4566: 유니버설 문자 이름 '\u255A'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\main.cpp(39,34): warning C4566: 유니버설 문자 이름 '\u2550'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\main.cpp(39,34): warning C4566: 유니버설 문자 이름 '\u255D'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\main.cpp(54,32): warning C4566: 유니버설 문자 이름 '\u2554'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\main.cpp(54,32): warning C4566: 유니버설 문자 이름 '\u2550'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\main.cpp(54,32): warning C4566: 유니버설 문자 이름 '\u2557'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\main.cpp(55,32): warning C4566: 유니버설 문자 이름 '\u2551'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\main.cpp(56,32): warning C4566: 유니버설 문자 이름 '\u255A'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\main.cpp(56,32): warning C4566: 유니버설 문자 이름 '\u2550'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\main.cpp(56,32): warning C4566: 유니버설 문자 이름 '\u255D'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+  Stage1_Dragon.cpp
+  Stage2_Arrow.cpp
+  Stage3_Stair.cpp
+  stage4_tetris.cpp
+C:\Users\MOBLE\Desktop\mini_game\stage4_tetris.cpp(284,1): warning C4102: 'RESTART4': 참조되지 않은 레이블입니다.
+  Stage5_snake.cpp
+C:\Users\MOBLE\Desktop\mini_game\Stage5_snake.cpp(314,15): warning C4566: 유니버설 문자 이름 '\u2554'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\Stage5_snake.cpp(314,15): warning C4566: 유니버설 문자 이름 '\u2550'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\Stage5_snake.cpp(314,15): warning C4566: 유니버설 문자 이름 '\u2557'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\Stage5_snake.cpp(315,15): warning C4566: 유니버설 문자 이름 '\u2551'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\Stage5_snake.cpp(316,15): warning C4566: 유니버설 문자 이름 '\u2551'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\Stage5_snake.cpp(317,15): warning C4566: 유니버설 문자 이름 '\u2551'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\Stage5_snake.cpp(318,15): warning C4566: 유니버설 문자 이름 '\u255A'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\Stage5_snake.cpp(318,15): warning C4566: 유니버설 문자 이름 '\u2550'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\Stage5_snake.cpp(318,15): warning C4566: 유니버설 문자 이름 '\u255D'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\Stage5_snake.cpp(353,19): warning C4566: 유니버설 문자 이름 '\u2554'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\Stage5_snake.cpp(353,19): warning C4566: 유니버설 문자 이름 '\u2550'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\Stage5_snake.cpp(353,19): warning C4566: 유니버설 문자 이름 '\u2557'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\Stage5_snake.cpp(354,19): warning C4566: 유니버설 문자 이름 '\u2551'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\Stage5_snake.cpp(355,19): warning C4566: 유니버설 문자 이름 '\u2551'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\Stage5_snake.cpp(356,19): warning C4566: 유니버설 문자 이름 '\u2551'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\Stage5_snake.cpp(357,19): warning C4566: 유니버설 문자 이름 '\u255A'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\Stage5_snake.cpp(357,19): warning C4566: 유니버설 문자 이름 '\u2550'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\Stage5_snake.cpp(357,19): warning C4566: 유니버설 문자 이름 '\u255D'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\Stage5_snake.cpp(369,51): warning C4566: 유니버설 문자 이름 '\u2554'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\Stage5_snake.cpp(369,51): warning C4566: 유니버설 문자 이름 '\u2550'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\Stage5_snake.cpp(369,51): warning C4566: 유니버설 문자 이름 '\u2557'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\Stage5_snake.cpp(370,53): warning C4566: 유니버설 문자 이름 '\u2551'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\Stage5_snake.cpp(371,53): warning C4566: 유니버설 문자 이름 '\u255A'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\Stage5_snake.cpp(371,53): warning C4566: 유니버설 문자 이름 '\u2550'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\MOBLE\Desktop\mini_game\Stage5_snake.cpp(371,53): warning C4566: 유니버설 문자 이름 '\u255D'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+  코드를 생성하고 있습니다...
+  mini_game.vcxproj -> C:\Users\MOBLE\Desktop\mini_game\x64\Debug\mini_game.exe
